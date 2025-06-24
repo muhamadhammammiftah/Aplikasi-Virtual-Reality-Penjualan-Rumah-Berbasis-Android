@@ -1,0 +1,2 @@
+rootProject.name = "RumahKita"
+include ':app'
